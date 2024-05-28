@@ -1,0 +1,11 @@
+Codice Treno, Azienda, Stazione di partenza, Stazione di arrivo, Ora di partenza, Ora di arrivo, Numero Carrozze, In orario, Cancellato
+123, Trenitalia, Torino Porta Nuova, Genova Piazza Principe, 08:30:00, 10:30:00, 10, 1, 0
+456, Trenitalia, Pisa Centrale, Roma Termini, 09:15:00, 11:45:00, 8, 1, 0
+789, Italo, Verona Porta Nuova, Bologna Centrale, 10:00:00, 12:30:00, 12, 1, 0
+987, Trenitalia, Venezia Mestre, Firenze Santa Maria Novella, 11:30:00, 14:00:00, 9, 1, 0
+654, Italo, Bari Centrale, Palermo Centrale, 12:45:00, 15:15:00, 11, 0, 0
+321, Trenitalia, Napoli Centrale, Salerno, 14:00:00, 16:30:00, 7, 0, 1
+1234, Italo, Catania Centrale, Messina Centrale, 15:15:00, 17:00:00, 6, 1, 0
+4567, Trenitalia, Reggio Calabria Centrale, Taranto, 16:30:00, 18:00:00, 10, 0, 1
+9876, Italo, Trieste Centrale, Udine, 17:45:00, 19:15:00, 8, 0, 0
+3210, Trenitalia, Ancona, Perugia, 19:00:00, 20:30:00, 9, 1, 0

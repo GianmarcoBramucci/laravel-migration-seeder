@@ -12,7 +12,8 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('trains', function (Blueprint $table) {
-            $table->id('codice_treno');
+            $table->id();
+            $table->mediumInteger('codice_treno');
             $table->string('azienda', 100);
             $table->string('stazione_di_partenza', 100);
             $table->string('stazione_di_arrivo', 100);
